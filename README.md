@@ -37,29 +37,34 @@ The landing page with a strong call to action and product exploration.
 
 ![Homepage](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Homepage1.png)
 
+![Homepage_Customization](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Homepage2.png)
+
 ---
 
 ### 🎨 2. Customize Product
 
 Users can choose product types, colors, sizes and upload their own designs (image, icon, text, etc.).
 
-![Customization](./assets/Customization.png)
-
----
 
 ### 👕 3. Customizable Products Page
 
 Select from a list of customizable items before personalizing them.
 
-![Customizable Products](./assets/Customizable_products.png)
+![Customizable Products](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Customizable_products.png)
 
 ---
+
+![Customization](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Customization.png)
+
+---
+
+
 
 ### 🛍️ 4. Shop Products
 
 Browse all available products, filter by category, and add to cart.
 
-![Products](./assets/Prdoducts.png)
+![Shop Products](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Prdoducts.png)
 
 ---
 
@@ -67,7 +72,7 @@ Browse all available products, filter by category, and add to cart.
 
 View cart items, adjust quantities, and proceed to checkout.
 
-![Cart](./assets/cart.png)
+![Cart](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/cart.png)
 
 ---
 
@@ -75,7 +80,7 @@ View cart items, adjust quantities, and proceed to checkout.
 
 Users can manage their profile, orders, and update settings.
 
-![User Account](./assets/UserAccount.png)
+![User Account](http://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/UserAccount.png)
 
 ---
 
@@ -83,7 +88,7 @@ Users can manage their profile, orders, and update settings.
 
 Admins can manage users, products, orders, and view performance metrics.
 
-![Admin Dashboard](./assets/Admin_Homepage.png)
+![Admin Dashboard](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_Homepage.png)
 
 ---
 
