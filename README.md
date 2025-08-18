@@ -2,7 +2,7 @@
 
 PrintO is a full-stack customizable e-commerce application that allows users to browse, purchase, and **customize apparel products** such as T-shirts, hoodies, and more. It combines all the core features of a modern e-commerce platform with a **unique real-world solution** — letting users **design their own products** by adding logos, text, images, and icons before purchase.
 
-> ✨ This project bridges the gap between standard product sales and personalized fashion, bringing print-on-demand customization to life!!
+> ✨ This project bridges the gap between standard product sales and personalized fashion, bringing print-on-demand customization to life!!!
 
 ---
 
