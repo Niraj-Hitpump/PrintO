@@ -13,19 +13,20 @@ PrintO is a full-stack customizable e-commerce application that allows users to 
 - 👤 User authentication and profile management
 - 🛒 Shopping cart and checkout process
 - 🛠️ Admin dashboard for product/user/order management
-- 📦 Inventory and order tracking
+- 📦 Inventory,order tracking and Delivery
 - 🖼️ Preview and print designs on selected products
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend**: React.js, Redux Toolkit, Tailwind CSS
+- **Frontend**: React.js, Redux Toolkit, Tailwind CSS, **Fabric.js**
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **File Uploads**: Cloudinary or Multer
-- **Deployment**: Vercel / Netlify (Frontend), Render / Railway (Backend)
+- **Deployment**: Vercel (Frontend), Render/Railway (Backend)
+
 
 ---
 
