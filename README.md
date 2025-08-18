@@ -146,6 +146,18 @@ Admin panel includes user management where admins can:
 
 ### 📎 12. GitHub Repository
 
-Find the full source code, issue tracking, and commit history on GitHub:
+Find the complete source code, commit history, issues, and development progress on GitHub.
 
-🔗 [https://github.com/Niraj-Hitpump/printo](https://github.com/Niraj-Hitpump/printo)
+🔗 **Repository Link**: [https://github.com/Niraj-Hitpump/printo](https://github.com/Niraj-Hitpump/printo)
+
+The repository includes:
+
+- 📁 Complete frontend and backend code (MERN stack)
+- 🐞 Issue tracking for bugs and feature requests
+- 🧪 Ongoing updates and improvements
+- 📜 Project documentation and setup instructions
+- 🎨 UI assets and screenshots for customization flow
+- 💡 Ideas, enhancements, and open contribution opportunities
+
+> Feel free to star ⭐ the repo, fork 🍴 it, or contribute 🤝 to the project!
+
