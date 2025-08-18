@@ -80,7 +80,7 @@ View cart items, adjust quantities, and proceed to checkout.
 
 Users can manage their profile, orders, and update settings.
 
-![User Account](http://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/UserAccount.png)
+![User Account](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/UserAccount.png)
 
 ---
 
