@@ -44,7 +44,7 @@ The landing page with a strong call to action and product exploration.
 
 ### 🎨 2. Customize Product
 
-Users can choose product types, colors, sizes and upload their own designs (image, icon, text, etc.).
+Users can choose product types, colors, sizes and upload their own designs (image, icon, text,colors etc.).
 
 
 ### 👕 3. Customizable Products Page
