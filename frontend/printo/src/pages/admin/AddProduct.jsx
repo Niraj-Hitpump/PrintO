@@ -94,7 +94,7 @@ export function AddProduct() {
         headers: {
           "Content-Type": "multipart/form-data",
         },
-      });
+      });  
 
       toast.success("Product added successfully");
       navigate("/admin/products");
