@@ -91,11 +91,60 @@ Admins can manage users, products, orders, and view performance metrics.
 ![Admin Dashboard](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_Homepage.png)
 
 ---
+### 🧩 8. Admin - Order List Management
 
-## 🚀 Getting Started Locally
+Admins can view and manage customer orders. The list includes:
 
-### 1. Clone the Repository
+- Order ID
+- Customer name
+- Date
+- Order status (Pending, Cancelled, Dispatched, Arriving, Delivered)
+- Total amount
+- Action buttons to update or delete the order
 
-```bash
-git clone https://github.com/your-username/printo-ecommerce.git
-cd printo-ecommerce
+![Admin Order List](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_orderlist.png)
+
+---
+
+### 👕 9. Admin - Product Management
+
+Admins can manage products using this interface:
+
+- View all existing products
+- Add new products using the **Add Product** button
+- Edit or delete products using the pencil and trash icons
+
+![Admin Products](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_products.png)
+
+---
+
+### 📦 10. Admin - Product Variants View
+
+This view displays a filtered product listing with available actions. Admins can:
+
+- See individual product data
+- Edit price or details
+- Delete specific product entries
+
+![Admin Single Product View](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_products%20(2).png)
+
+---
+
+### 👤 11. Admin - User Management
+
+Admin panel includes user management where admins can:
+
+- View all registered users
+- Search users by name or email
+- Filter users
+- Delete users directly from the interface
+
+![Admin Users](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Admin_Users.png)
+
+---
+
+### 📎 12. GitHub Repository
+
+Find the full source code, issue tracking, and commit history on GitHub:
+
+🔗 [https://github.com/Niraj-Hitpump/printo](https://github.com/Niraj-Hitpump/printo)
