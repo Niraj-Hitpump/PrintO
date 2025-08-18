@@ -35,7 +35,7 @@ PrintO is a full-stack customizable e-commerce application that allows users to 
 
 The landing page with a strong call to action and product exploration.
 
-![Homepage](./assets/Homepage.png)
+![Homepage](https://github.com/Niraj-Hitpump/printo/blob/main/frontend/printo/public/printo%20images/Homepage1.png)
 
 ---
 
